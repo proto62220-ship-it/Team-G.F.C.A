@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tezm G.F.C.A</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="topheader">
+        <nav class="navbar">
+            <a href="#accueil" class="logo">G.F.C.A</a>
+            <ul class="menu">
+                <li><a href="#accueil">Accueil</a></li>
+                <li><a href="#presentation">Présentation</a></li>
+                <li><a href="#infos">Infos</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="accueil" class="hero">
+        <h1>Bienvenue sur La team du Groupe Famillial des Commandos d'Airsoft</h1>
+        <p>Terrain airsoft et communauté active — rejoignez nous !</p>
+    </section>
+
+    <section id="presentation" class="content-section">
+        <h2>Présentation</h2>
+        <p>Team G.F.C.A est une communauté de passionnés qui se retrouve autour d’un terrain unique pour jouer et partager.</p>
+    </section>
+
+    <section id="infos" class="content-section">
+        <h2>Infos</h2>
+        <p>Découvre les événements, actualités et infos pratiques pour venir jouer.</p>
+    </section>
+
+    <section id="contact" class="content-section">
+        <h2>Contact</h2>
+        <p>Contactez-nous via email ou réseaux sociaux.</p>
+    </section>
+
+    <footer class="footer">
+        <p>© 2026 Team G.F.C.A</p>
+    </footer>
+</body>
+</html>
